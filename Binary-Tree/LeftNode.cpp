@@ -18,7 +18,7 @@ node* newNode(int x)
     temp->right=NULL;
     temp->data=x;
     return temp;
-} 
+}  
  
 void nextleftnode(node* root,int key)
 {
