@@ -1,4 +1,4 @@
-Print all nodes that don’t have sibling. Solved by using Level-Order Traversal.
+// Print all nodes that don’t have sibling. Solved by using Level-Order Traversal.
 #include<iostream> 
 #include<queue> 
 using namespace std;
