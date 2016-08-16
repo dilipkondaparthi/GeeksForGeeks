@@ -1,3 +1,4 @@
+//Write a function to find left node of a given node in Binary Tree. If there is no node on the left side, then return NULL.
 #include<iostream> 
 #include<queue> 
 using namespace std;
@@ -84,6 +85,6 @@ int main()
     nextleftnode(root, 5);
     nextleftnode(root, 8);
     nextleftnode(root, 4);
- 
+    
     return 0;
 }
