@@ -2,7 +2,7 @@
 #include<iostream> 
 #include<queue> 
 using namespace std;
-
+ 
 /* Author : Dilip.K */
 struct node
 {
