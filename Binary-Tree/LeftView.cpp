@@ -53,7 +53,7 @@ void leftView(node* root)
 }
  
 int main()
-{
+{ 
  struct node *root = newNode(12);
     root->left = newNode(10);
     root->right = newNode(30);
