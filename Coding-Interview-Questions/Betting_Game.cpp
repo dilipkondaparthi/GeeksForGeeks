@@ -10,7 +10,7 @@ and in case you do not have enough money in between the game to play the next ro
 
 Problem Link: http://www.practice.geeksforgeeks.org/problem-page.php?pid=671 */
 
-#include <iostream> 
+#include<iostream> 
 #include<algorithm>
 using namespace std;
  
