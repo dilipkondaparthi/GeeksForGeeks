@@ -24,10 +24,7 @@ int main()
                 if(i==0 && a[i]<a[i+1])
                 {d=1;l=i;}
                 else if(i==n-1 && a[i]>a[i-1])
-                {
-                d=1; 
-                h=i; 
-                }
+                {d=1;h=i;}
                 else if(i>0 && i<n-1 && a[i]>a[i-1] && a[i]>a[i+1])
                 {
                     d=1;
