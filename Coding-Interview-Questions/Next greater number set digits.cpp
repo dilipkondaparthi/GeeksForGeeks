@@ -2,6 +2,7 @@
 If x is the greatest possible number with its set of digits, then print “not possible”.
 
 Problem Link: http://www.practice.geeksforgeeks.org/problem-page.php?pid=384 */
+// AUTHOR : K.DILIP
 
 #include<iostream>
 #include<climits>
