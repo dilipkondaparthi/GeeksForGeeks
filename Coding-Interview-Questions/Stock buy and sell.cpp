@@ -7,7 +7,7 @@ Problem Link: http://www.practice.geeksforgeeks.org/problem-page.php?pid=376 */
 #include<algorithm>
 using namespace std;
  
-int main() 
+int main()  
 { 
 	int t,n;
 	cin>>t;
