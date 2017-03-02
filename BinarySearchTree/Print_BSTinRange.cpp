@@ -30,7 +30,7 @@ void insert(Node** tree, int val)
 
 void printNearNodes(Node* root, int l, int h)
 {
-    if (!root)
+    if (!root) 
         return;
     if (root->data == l && root->data == h)
         cout << root->data << " ";
