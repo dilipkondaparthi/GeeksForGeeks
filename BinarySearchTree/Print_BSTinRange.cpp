@@ -36,7 +36,7 @@ void printNearNodes(Node* root, int l, int h)
         cout << root->data << " ";
     else if (root->data >= l && root->data <= h) {
         printNearNodes(root->left, l, h);
-        cout << root->data << " ";
+        cout << root->data << " "; 
         printNearNodes(root->right, l, h);
     }
     else if (root->data < l)
